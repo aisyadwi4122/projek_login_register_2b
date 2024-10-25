@@ -1,3 +1,7 @@
+Nama   : Aisya Dwi Anggita
+NIM    : 362358302085
+Kelas  : 2B TRPL
+
 1. Tampilan login
 ![alt text](<Screenshot (479).png>)
 2. Tampilan register
